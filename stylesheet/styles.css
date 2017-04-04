@@ -1,0 +1,204 @@
+*	    {margin:0;
+	     padding:0;}
+body        {background-image: url(../media/sunset.jpg);
+             background-attachment: fixed;
+             background-repeat: no-repeat;
+             background-size: cover;}
+			
+header		{height:150px;
+             background-color:#FF4C3B;
+             padding:30px 150px;
+             line-height:150px;}
+			
+.ls			{font-size:20px;
+             float:right;
+             font-family: calibri;}
+			
+img			{float:left;}
+			
+.clear		{clear:both;}
+			
+nav			{height:30px;
+             background-color:#FFD034;
+             padding:10px 0 10px 150px;}
+						 
+.buttons	{height:30px;
+             width:150px;
+             line-height:30px;
+             float:left;
+             border:0px solid black;
+             margin-right:5px;
+             text-align:center;
+             font-family: forte;
+             font-size: 22px;}
+
+.buttons:hover{background-color:#0072BB;
+               border-radius: 5px;
+				 color:white;
+                 font-size: 25px;}
+						 
+		
+section		{margin:0 150px;
+             padding:10px;}
+						 
+.image		{margin:0 auto;
+             height:410px;
+             width:1000px;}
+						 
+.tiles		{height:400px;
+             width:320px;
+             margin:0 10px 10px 0;
+             float:left;}
+						 
+.tilesx		{height:400px;
+             width:320px;
+             margin:0 0 10px 0;
+             float:left;}
+
+.des		{font-size:20px;
+             height:50px;
+             width:290px;
+             padding:15px 15px;
+             background-color:#C6C8CA;
+             font-family: calibri;}
+						 
+.imgc		{height:320px;
+             width:320px;}
+			
+.tilessection{display: inline-block;
+              
+              margin:0 auto;}
+			
+footer		{height:200px;
+             background-color:#0072BB;}
+						 
+.cr			{text-align:center;
+             padding:10px;}
+						 
+.icons		{height:60px;
+             width:290px;
+             margin: 0 auto;}
+			
+.icon		{padding:0 10px 0 0;
+             float:left;}
+						 
+.contact	{text-align:center;
+             font-family: calibri;}
+
+.tilessection .des:hover{font-size: 23px;}
+
+.imgc:hover + .des{font-size: 23px;}
+
+.countrytabs .countryname:hover{font-size: 30px;}
+
+.countryimg:hover + .countryname{font-size: 30px;}
+			
+							 
+.pack		{height:460px;
+             width:900px;
+             margin:0 auto;}
+						
+.packimg	{height:450px;
+             width:450px;
+             float:left;}
+				
+.packdes	{height:420px;
+             width:420px;
+             background-color:#C6C8CA;
+             padding:15px;
+             float:left;}
+						 
+h1          {text-align:center;
+             font-size:60px;}
+
+.loginform  {background-color: black;
+             opacity: 0.8;
+             height:300px;
+             width: 600px;
+             margin: 0 auto;
+             border-radius: 25px;
+             color:white;}
+
+h2          {
+             color: white;
+             font-size: 40px;}
+
+input       {height:40px;
+             width:300px;
+             font-size: 20px;}
+
+.inputfields{margin:0 auto;
+             width:300px;}
+
+.signupform {background-color: black;
+             opacity: 0.8;
+             height:500px;
+             width: 600px;
+             margin: 0 auto;
+             border-radius: 25px;
+             color:white;}
+
+.lsbutton   {height:40px;
+             width: 302px;
+             margin:0 auto;
+             font-size: 17px;
+             background-color: #C6C8CA;}
+
+.lsbutton:hover{font-size:20px;}
+
+.ticketform {background-color: black;
+             opacity: 0.8;
+             height:600px;
+             width: 600px;
+             margin: 0 auto;
+             border-radius: 25px;
+             color:white;}
+
+.hotelform  {background-color: black;
+             opacity: 0.8;
+             height:500px;
+             width: 600px;
+             margin: 0 auto;
+             border-radius: 25px;
+             color:white;}
+
+.country    {height:300px;
+             width:200px;
+             margin: 0 10px 0 0;
+             float: left;
+             background-color: white;}
+
+.countryx   {height:300px;
+             width:200px;
+             
+             float: left;
+             background-color: white;}
+
+.countryimg {height: 200px;
+             width: 200px;}
+
+.countryname{padding:15px;
+             height: 70px;
+             width: 170px;
+             line-height: 70px;
+             text-align: center;
+             font-size: 25px;}
+
+.countrytabs{display: inline-block;
+             margin: 0 auto;}
+
+.countryinfo{background-color: black;
+             opacity: 0.8;
+             padding:50px;
+             width: 900px;
+             margin: 0 auto;
+             border-radius: 25px;
+             color:white;}
+
+li ul li    {margin-left: 20px;}
+
+ul li       {margin: 20px;}
+
+.countrypoints{line-height: 25px;
+               font-family: calibri;
+               font-size: 20px;}
